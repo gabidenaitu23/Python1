@@ -1,7 +1,18 @@
-# Python1
+Python programm
+-  Installation
+    - https://www.coingecko.com/api/documentations/v3 - swagger
+    - https://www.coingecko.com/en/api/documentation - API documentation
+    - https://github.com/man-c/pycoingecko - coingecko python library
 
-Installation
+-  Usage
+    market_cap_sort()
+    
+    
+-  Examples
 
-PyPI
+print(market_cap_sort())
+['Bitcoin', 'Ethereum', 'Cardano', 'Tether']
 
-pip install pycoingecko
+
+
+
